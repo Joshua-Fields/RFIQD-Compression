@@ -1,7 +1,0 @@
-# requirements.txt
-# 
-# This file declares Python dependencies for using both:
-#   1) The RFIQD reducer script (which primarily uses stdlib)
-#   2) The GUI version of the RFIQD reducer (which uses PySimpleGUI >=4.58)
-
-PySimpleGUI>=4.58
